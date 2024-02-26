@@ -1,1 +1,2 @@
-# uyu-turucu-kullan-m-testi
+# madde kullanım testi
+resimler arası benzerlik hesaplama
